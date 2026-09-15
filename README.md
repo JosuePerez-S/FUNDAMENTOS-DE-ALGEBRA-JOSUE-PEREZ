@@ -42,7 +42,7 @@
 * **Respuesta:** Coordenada $(-2, -1)$
 
 ---
-![](./Graficas Algebra.png)
+![](./GraficasAlgebra.png)
 ## Operaciones básicas con complejos
 
 ### Ejercicio 25
