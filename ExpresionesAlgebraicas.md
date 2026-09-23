@@ -1,5 +1,5 @@
 # FUNDAMENTOS-DE-ALGEBRA-JOSUE-PEREZ
-## 11. Conversiones de Sistemas Numéricos (73 al 102)
+## Conversiones de Sistemas Numéricos 
 
 ### Ejercicio 73: $00001111_2$ a Decimal
 * **Paso 1:** Identificar las posiciones de los bits con valor $1$:
@@ -271,7 +271,7 @@
 
 ---
 
-## 12. Clasificación de Polinomios (103 al 108)
+## Clasificación de Polinomios 
 
 ### Ejercicio 103: $5n + 5$
 * **Paso 1:** Contar el número de términos: Tiene $2$ términos ($5n$ y $5$), por lo que es un **binomio**.
@@ -305,7 +305,7 @@
 
 ---
 
-## 13. Problemas de Aplicación (109 al 114)
+##  Problemas de Aplicación 
 
 ### Ejercicio 109
 * **Enunciado:** Trabajar juntos toma $3.08$ horas. Una persona sola tarda $8$ horas. Determinar cuánto tarda la segunda persona ($J$).
